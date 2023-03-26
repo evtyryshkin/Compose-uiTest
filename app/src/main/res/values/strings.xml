@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Compose uiTest</string>
+    <string name="clicker_text">Current value: %d</string>
+    <string name="increase_button">Increase</string>
+    <string name="decrease_button">Decrease</string>
+</resources>
